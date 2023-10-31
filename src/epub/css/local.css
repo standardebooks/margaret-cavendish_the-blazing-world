@@ -35,10 +35,14 @@ footer{
 /* signature */
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
-	text-align: right;
 }
 /* end signature */
 
-#dedication header{
+#dedication header,
+#introduction header{
 	margin: 3em auto;
+}
+
+#chapter-1{
+	margin-top: 20vh;
 }
