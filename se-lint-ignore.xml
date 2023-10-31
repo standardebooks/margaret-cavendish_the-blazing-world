@@ -3,7 +3,7 @@
 	<file path="chapter-1.xhtml">
 		<ignore>
 			<code>t-033</code>
-			<reason>Hanging hyphens intentional</reason>
+			<reason>Hanging hyphens are intentional.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
