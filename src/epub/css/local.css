@@ -38,3 +38,7 @@ footer{
 	text-align: right;
 }
 /* end signature */
+
+#dedication header{
+	margin: 3em auto;
+}
